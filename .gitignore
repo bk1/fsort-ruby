@@ -1,3 +1,4 @@
+*~
 *.gem
 *.rbc
 /.config
@@ -32,3 +33,6 @@ build/
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
+two-blocks.rb
+two-blocks2.rb
+two-blocks3.rb
